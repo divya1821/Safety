@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>category</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 07:54:05</sys_created_on>
+        <sys_data_policy display_value="Safety State set to Working">530c9f62477602104bd97f52d16d43ea</sys_data_policy>
+        <sys_id>c5ad1fae473602104bd97f52d16d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category</sys_name>
+        <sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope>
+        <sys_update_name>sys_data_policy_rule_c5ad1fae473602104bd97f52d16d43be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 07:54:05</sys_updated_on>
+        <table>x_1438987_safety_issues</table>
+    </sys_data_policy_rule>
+</record_update>

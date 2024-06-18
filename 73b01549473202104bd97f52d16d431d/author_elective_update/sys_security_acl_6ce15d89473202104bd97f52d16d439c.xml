@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1438987_safety_issues</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 05:52:01</sys_created_on>
+        <sys_id>6ce15d89473202104bd97f52d16d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1438987_safety_issues</sys_name>
+        <sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope>
+        <sys_update_name>sys_security_acl_6ce15d89473202104bd97f52d16d439c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 05:52:01</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="safety ">73b01549473202104bd97f52d16d431d</application>
+        <file_path/>
+        <instance_id>05fe64c6db560a50ebdd2a5913961923</instance_id>
+        <instance_name>dev272624</instance_name>
+        <name>sys_security_acl_6ce15d89473202104bd97f52d16d439c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1438987_safety_issues</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-13 05:52:01</sys_created_on><sys_id>6ce15d89473202104bd97f52d16d439c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1438987_safety_issues</sys_name><sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package><sys_policy/><sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope><sys_update_name>sys_security_acl_6ce15d89473202104bd97f52d16d439c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-13 05:52:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-910974000</payload_hash>
+        <record_name>x_1438987_safety_issues</record_name>
+        <reverted_from/>
+        <source>04c01549473202104bd97f52d16d4321</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 05:52:01</sys_created_on>
+        <sys_id>24e15d89473202104bd97f52d16d439f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19010272d250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 05:52:01</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>28e15d890532021049a3ebafc0f55e9e</update_guid>
+        <update_guid_history>28e15d890532021049a3ebafc0f55e9e:-910974000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 06:47:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>373744286a82469388d17c5a65ed87f1</sys_id>
+        <sys_metadata>6ce15d89473202104bd97f52d16d439c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1438987_safety_issues</sys_name>
+        <sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package>
+        <sys_parent display_value="">aed19989473202104bd97f52d16d43be</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope>
+        <sys_scope_delete display_value="">00575121b8954d3e8009571e2905f264</sys_scope_delete>
+        <sys_update_name>sys_security_acl_6ce15d89473202104bd97f52d16d439c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_6ce15d89473202104bd97f52d16d439c">24e15d89473202104bd97f52d16d439f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 06:47:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

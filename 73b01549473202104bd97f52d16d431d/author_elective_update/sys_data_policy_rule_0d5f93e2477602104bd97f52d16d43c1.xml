@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>category</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 08:01:07</sys_created_on>
+        <sys_data_policy display_value="Safety State set to Working">530c9f62477602104bd97f52d16d43ea</sys_data_policy>
+        <sys_id>0d5f93e2477602104bd97f52d16d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category</sys_name>
+        <sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope>
+        <sys_update_name>sys_data_policy_rule_0d5f93e2477602104bd97f52d16d43c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 08:01:07</sys_updated_on>
+        <table>x_1438987_safety_issues</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="safety ">73b01549473202104bd97f52d16d431d</application>
+        <file_path/>
+        <instance_id>05fe64c6db560a50ebdd2a5913961923</instance_id>
+        <instance_name>dev272624</instance_name>
+        <name>sys_data_policy_rule_0d5f93e2477602104bd97f52d16d43c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>category</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-18 08:01:07</sys_created_on><sys_data_policy display_value="Safety State set to Working">530c9f62477602104bd97f52d16d43ea</sys_data_policy><sys_id>0d5f93e2477602104bd97f52d16d43c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>category</sys_name><sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package><sys_policy/><sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope><sys_update_name>sys_data_policy_rule_0d5f93e2477602104bd97f52d16d43c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-18 08:01:07</sys_updated_on><table>x_1438987_safety_issues</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>2001124025</payload_hash>
+        <record_name>category</record_name>
+        <reverted_from/>
+        <source>04c01549473202104bd97f52d16d4321</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 08:01:07</sys_created_on>
+        <sys_id>8c6f1326477602104bd97f52d16d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902a5d2ab30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 08:01:07</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>806f13267a76021040da584fbbc1c2d9</update_guid>
+        <update_guid_history>806f13267a76021040da584fbbc1c2d9:2001124025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 08:01:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>1f8391673f244ef0ba77347ef3c6a240</sys_id>
+        <sys_metadata>0d5f93e2477602104bd97f52d16d43c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category</sys_name>
+        <sys_package display_value="safety " source="x_1438987_safety">73b01549473202104bd97f52d16d431d</sys_package>
+        <sys_parent display_value="Safety State set to Working">530c9f62477602104bd97f52d16d43ea</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="safety ">73b01549473202104bd97f52d16d431d</sys_scope>
+        <sys_scope_delete display_value="">00575121b8954d3e8009571e2905f264</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_0d5f93e2477602104bd97f52d16d43c1</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_0d5f93e2477602104bd97f52d16d43c1">8c6f1326477602104bd97f52d16d43d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 08:01:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
